@@ -1,0 +1,7 @@
+PyQt5==5.15.9
+requests==2.31.0
+ipinfo==4.2.1
+geopy==2.3.0
+folium==0.14.0
+pyinstaller==5.13.0
+geocoder==1.38.1
